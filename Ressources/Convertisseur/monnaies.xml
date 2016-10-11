@@ -1,0 +1,26 @@
+<monnaies>
+		<monnaie>
+			<nom>Livre</nom>
+			<taux>0.6404</taux>
+		</monnaie>
+		<monnaie>
+			<nom>Euro</nom>
+			<taux>0.7697</taux>
+		</monnaie>
+		<monnaie>
+			<nom>Dirham</nom>
+			<taux>8.5656</taux>
+		</monnaie>
+		<monnaie>
+			<nom>Yen</nom>
+			<taux>76.6908</taux>
+		</monnaie>
+		<monnaie>
+			<nom>Francs CFA</nom>
+			<taux>503.17</taux>
+		</monnaie>
+		<monnaie>
+			<nom>Dollars US</nom>
+			<taux>1.0</taux>
+		</monnaie>
+</monnaies>
