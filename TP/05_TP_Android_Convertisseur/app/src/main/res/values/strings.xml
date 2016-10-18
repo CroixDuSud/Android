@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Convertisseur</string>
+
+    <string name="lbl_activite">Convertisseur\nde\ndevises</string>
+    <string name="lbl_devise_dep">Devise de départ</string>
+    <string name="lbl_devise_arr">Devise d\'arrivée</string>
+    <string name="lbl_montant">Montant</string>
+    <string name="btn_conv">CONVERTIR</string>
+    <string name="btn_quit">QUITTER</string>
+
+    <string name="action_apropos">A propos</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_langage">Changer la langue</string>
+    <string name="action_date">Changer la date</string>
+    <string name="action_display">Changer l\'affichage</string>
+    <string name="action_quitter">Quitter</string>
+
+    <string-array name="liste_devises">
+        <item></item>
+        <item>Livre</item>
+        <item>Franc</item>
+        <item>Dirham</item>
+        <item>Dollar</item>
+        <item>Euro</item>
+        <item>Yen</item>
+    </string-array>
+
+</resources>

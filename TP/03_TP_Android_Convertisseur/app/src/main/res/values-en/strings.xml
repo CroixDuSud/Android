@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Converter</string>
+
+    <string name="lbl_activite">Money\nConverter\n***</string>
+    <string name="lbl_devise_dep">Start currency</string>
+    <string name="lbl_devise_arr">Finish currency</string>
+    <string name="lbl_montant">Amount</string>
+    <string name="btn_conv">CONVERT</string>
+    <string name="btn_quit">QUIT</string>
+
+    <string name="message_err_dev_arr">Select start currency</string>
+    <string name="message_err_dev_dep">Select finish currency</string>
+    <string name="message_err_mont">Select amount</string>
+    <string name="message_ok">ok</string>
+	
+    <string-array name="liste_devises">
+        <item></item>
+        <item>Livre</item>
+        <item>Franc</item>
+        <item>Dirham</item>
+        <item>Dollar</item>
+        <item>Euro</item>
+        <item>Yen</item>
+    </string-array>
+
+
+</resources>
