@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">14_TP_Android_ServiceGPS</string>
+    <string name="buttonStart">Démarrer le service</string>
+</resources>
